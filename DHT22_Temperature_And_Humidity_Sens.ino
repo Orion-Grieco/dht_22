@@ -5,6 +5,8 @@
 /*
   Library import
 */
+
+#include <iostream>
 #include <DHT.h> //importing DHT sensor library
 // constants
 #define DHTPIN 2      // declaring location of Data-Pin on arduino board

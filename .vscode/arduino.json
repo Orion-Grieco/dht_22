@@ -1,4 +1,6 @@
 {
-    "sketch": "DHT22_Temperature_And_Humidity_Sens.ino",
-    "port": "COM5"
+    "sketch": "DHT22_Temperature_And_Humidity_Sens",
+    "port": "COM5",
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrisp"
 }
