@@ -1,5 +1,5 @@
 {
-    "sketch": "DHT22_Temperature_And_Humidity_Sens.ino",
+    "sketch": "C:/Users/Orion/Documents/GitHub/dht_22/DHT22_Temperature_And_Humidity_Sens.ino",
     "port": "COM5",
     "board": "arduino:avr:uno",
     "programmer": "arduino:avrisp"
