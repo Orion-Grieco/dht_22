@@ -1,5 +1,5 @@
 {
-    "arduino.path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
-    "arduino.commandPath": "arduino",
+    "arduino.path": "C:/ProgramData/Microsoft/Windows/Start Menu/Programs",
+    "arduino.commandPath": "Arduino",
     "arduino.useArduinoCli": true
 }
