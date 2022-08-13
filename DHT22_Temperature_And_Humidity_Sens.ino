@@ -13,7 +13,7 @@
 #define DHTTYPE DHT22 // declaring the type of temp/pressure sensor
 DHT dht = DHT(DHTPIN, DHTTYPE);
 
-// creating variables
+// creating variables 
 int chk;
 float humidity;    // float used to store values for humidity
 float temperature; // float used to store values for temperature
