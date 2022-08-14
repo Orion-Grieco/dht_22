@@ -6,14 +6,13 @@
   Library import
 */
 
-#include <iostream>
 #include <DHT.h> //importing DHT sensor library
 // constants
 #define DHTPIN 2      // declaring location of Data-Pin on arduino board
 #define DHTTYPE DHT22 // declaring the type of temp/pressure sensor
 DHT dht = DHT(DHTPIN, DHTTYPE);
 
-// creating variables 
+// creating variables
 int chk;
 float humidity;    // float used to store values for humidity
 float temperature; // float used to store values for temperature
