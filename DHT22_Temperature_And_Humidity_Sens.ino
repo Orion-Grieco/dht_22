@@ -43,6 +43,3 @@ void loop()
   delay(1000); // 1000ms, or 1 sec
   // 3 second TOTAL delay when factoring in initial 2000ms delay
 }
-
-// C:\Users\ogrieco548\Pictures\Camera Roll\sketch_apr05a\sketch_apr05b\sketch_apr05b.ino:8:17: warning: extra tokens at end of #include directive
-//#include <DHT.h>; //importing DHT sensor library
